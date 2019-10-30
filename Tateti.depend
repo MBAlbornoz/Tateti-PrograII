@@ -1,0 +1,6709 @@
+# depslib dependency file v1.0
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clserror.h
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\adn-x\clstimer.h
+	"clsEvent.h"
+
+1539981422 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+
+1541816120 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\include\clsmotor.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+
+1529868686 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910118 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542254628 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1542317281 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1542321099 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+
+1541818842 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1542300810 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301929 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302344 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302474 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542302968 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303042 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542319303 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1542305245 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542321252 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305419 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1542306190 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1542321252 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.3\src\clsjugar.cpp
+	"clsJugar.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clserror.h
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322172 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1542324713 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\include\clsmotor.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910118 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542254628 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1542317281 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1542323873 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1542300810 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301929 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302344 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302474 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542302968 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303042 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542325467 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1542325467 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\src\clsjugar.cpp
+	"clsJugar.h"
+
+1542305245 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542324967 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305419 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1542306190 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1542324855 c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542325467 source:c:\users\cristian.baier\downloads\laboratorio ii tp2 v2.3\laboratorio ii tp2 v2.5\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1415818188 source:d:\laboratorio ii tp2 v2.5\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 d:\laboratorio ii tp2 v2.5\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clserror.h
+
+1415818188 source:d:\laboratorio ii tp2 v2.5\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:d:\laboratorio ii tp2 v2.5\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:d:\laboratorio ii tp2 v2.5\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:d:\laboratorio ii tp2 v2.5\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:d:\laboratorio ii tp2 v2.5\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:d:\laboratorio ii tp2 v2.5\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:d:\laboratorio ii tp2 v2.5\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:d:\laboratorio ii tp2 v2.5\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:d:\laboratorio ii tp2 v2.5\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:d:\laboratorio ii tp2 v2.5\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:d:\laboratorio ii tp2 v2.5\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:d:\laboratorio ii tp2 v2.5\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:d:\laboratorio ii tp2 v2.5\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 d:\laboratorio ii tp2 v2.5\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:d:\laboratorio ii tp2 v2.5\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1542324714 d:\laboratorio ii tp2 v2.5\include\clsmotor.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 d:\laboratorio ii tp2 v2.5\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 d:\laboratorio ii tp2 v2.5\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 d:\laboratorio ii tp2 v2.5\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 d:\laboratorio ii tp2 v2.5\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910120 d:\laboratorio ii tp2 v2.5\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 d:\laboratorio ii tp2 v2.5\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542254630 d:\laboratorio ii tp2 v2.5\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1542317282 d:\laboratorio ii tp2 v2.5\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 d:\laboratorio ii tp2 v2.5\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1542323874 d:\laboratorio ii tp2 v2.5\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 d:\laboratorio ii tp2 v2.5\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1542324856 d:\laboratorio ii tp2 v2.5\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:d:\laboratorio ii tp2 v2.5\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:d:\laboratorio ii tp2 v2.5\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:d:\laboratorio ii tp2 v2.5\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:d:\laboratorio ii tp2 v2.5\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542302970 source:d:\laboratorio ii tp2 v2.5\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:d:\laboratorio ii tp2 v2.5\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542325468 source:d:\laboratorio ii tp2 v2.5\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1542325468 source:d:\laboratorio ii tp2 v2.5\src\clsjugar.cpp
+	"clsJugar.h"
+
+1542305246 source:d:\laboratorio ii tp2 v2.5\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542305420 source:d:\laboratorio ii tp2 v2.5\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1542325468 source:d:\laboratorio ii tp2 v2.5\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1542306192 source:d:\laboratorio ii tp2 v2.5\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1415818188 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clserror.h
+
+1415818188 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga\desktop\laboratorio ii tp2 v2.5\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1542324714 c:\users\maga\desktop\laboratorio ii tp2 v2.5\include\clsmotor.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga\desktop\laboratorio ii tp2 v2.5\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga\desktop\laboratorio ii tp2 v2.5\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga\desktop\laboratorio ii tp2 v2.5\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga\desktop\laboratorio ii tp2 v2.5\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910120 c:\users\maga\desktop\laboratorio ii tp2 v2.5\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga\desktop\laboratorio ii tp2 v2.5\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542254630 c:\users\maga\desktop\laboratorio ii tp2 v2.5\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1542317282 c:\users\maga\desktop\laboratorio ii tp2 v2.5\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga\desktop\laboratorio ii tp2 v2.5\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1542323874 c:\users\maga\desktop\laboratorio ii tp2 v2.5\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga\desktop\laboratorio ii tp2 v2.5\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1542324856 c:\users\maga\desktop\laboratorio ii tp2 v2.5\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542302970 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542325468 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1542325468 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\src\clsjugar.cpp
+	"clsJugar.h"
+
+1542305246 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542326378 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1542325468 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1542306192 source:c:\users\maga\desktop\laboratorio ii tp2 v2.5\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clserror.h
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1542324714 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\include\clsmotor.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910120 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542435245 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1542317282 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1542323874 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1542436023 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542435498 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542325468 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1542436741 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\src\clsjugar.cpp
+	"clsJugar.h"
+
+1542305246 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542436741 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1542436764 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1542306192 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.6\laboratorio ii tp2 v2.6\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clserror.h
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1542324714 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\include\clsmotor.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910120 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542435245 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1542317282 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1542323874 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1542436023 c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542435498 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542325468 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1542305246 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542436741 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1542306192 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1542437402 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\src\clsjugar.cpp
+	"clsJugar.h"
+
+1542436962 source:c:\users\maga\desktop\versiones tp\laboratorio ii tp2 v2.7\laboratorio ii tp2 v2.7\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clserror.h
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1542324714 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\include\clsmotor.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910120 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1542317282 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1542323874 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1542436023 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542325468 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1563074294 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\src\clsjugar.cpp
+	"clsJugar.h"
+
+1542305246 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542436741 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1542436962 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563074196 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.8\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clserror.h
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563234443 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910120 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1542317282 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563239337 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563239337 e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563159972 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1563240205 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\src\clsjugar.cpp
+	"clsJugar.h"
+	<string>
+	"stdlib.h"
+
+1542305246 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542436741 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563239337 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563235599 source:e:\utn\laboratorio ii\laboratorio ii tp2 versiones\laboratorio ii tp2 v2.9\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563311372 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910120 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1542317282 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563299063 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563299063 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563159972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542436741 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563299088 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563235599 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1563309540 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.0\laboratorio ii tp2 v3.0\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563311372 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910120 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1542317282 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563491933 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563299063 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563159972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542436741 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563491935 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563235599 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1563500443 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.1\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563311372 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910120 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1563507604 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563507604 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563299063 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\src\clsmenu.cpp
+	"clsMenu.h"
+
+1563508219 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563510765 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563235599 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1563508219 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1563510765 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.2\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563311372 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910120 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1563507604 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563655334 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563299063 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563508219 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1563657729 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\src\clsmenu.cpp
+	"clsMenu.h"
+
+1563508219 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563656067 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563235599 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.3\laboratorio ii tp2 v3.3\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563311372 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910120 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1563507604 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563655334 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563673301 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563508219 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\src\clsmenu.cpp
+	"clsMenu.h"
+
+1563508219 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563673679 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563235599 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1563674977 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.6\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563311372 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910120 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1563507604 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563719946 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563680317 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563508219 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1563722226 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542305420 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563235599 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1563680035 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\src\clsmotor.cpp
+	"clsMotor.h"
+
+1563680317 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563311372 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1541910120 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1563507604 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563765562 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563766708 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563508219 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1563768957 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\src\clsmenu.cpp
+	"clsMenu.h"
+
+1563680035 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563767554 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563235599 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.7\laboratorio ii tp2 v3.7\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563311372 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1563793133 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1563793132 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563797895 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563799207 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563793133 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\src\clsmenu.cpp
+	"clsMenu.h"
+
+1563680035 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563799250 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563235599 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1563798457 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.8\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563311372 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1563793133 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1563793132 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563797895 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563806952 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563793133 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1563810446 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\src\clsmenu.cpp
+	"clsMenu.h"
+
+1563680035 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563811518 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563235599 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v3.9\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563311372 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1563793133 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1563793132 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563797895 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563882085 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563793133 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1563883185 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\src\clsmenu.cpp
+	"clsMenu.h"
+
+1563680035 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563235599 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1563882391 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.0\laboratorio ii tp2 v4.0\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563311372 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1563793133 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1563793132 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563891381 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563882085 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563793133 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1563892401 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\src\clsmenu.cpp
+	"clsMenu.h"
+
+1563891458 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563882391 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563235599 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.2\laboratorio ii tp2 v4.0\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563897984 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1563793133 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1563793132 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563891381 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563882085 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563895928 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\src\clsmenu.cpp
+	"clsMenu.h"
+
+1563898333 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563882391 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563235599 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1563895436 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.4\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563897984 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1563793133 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1563793132 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563891381 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1563882085 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\src\clsboton.cpp
+	"clsBoton.h"
+
+1542302346 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563895928 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1563952738 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\src\clsmenu.cpp
+	"clsMenu.h"
+
+1563941124 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542305420 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1563882391 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563235599 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.5\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563897984 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1563793133 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1563793132 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563891381 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1564030727 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\src\clsboton.cpp
+	"clsBoton.h"
+
+1563988583 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\src\clsjuego.cpp
+	"clsJuego.h"
+
+1564031264 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\src\clsmenu.cpp
+	"clsMenu.h"
+
+1564030165 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\src\clsmotor.cpp
+	"clsMotor.h"
+
+1564031574 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1564031415 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563988325 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+
+1563988325 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.6\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clserror.h
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542322174 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	"clsMotor.h"
+	"clsPresentacion.h"
+	"clsJugador.h"
+	"clsPuntaje.h"
+
+1563897984 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\include\clsmotor.h
+	<string>
+	"stdlib.h"
+	<iostream>
+	<string>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsJugar.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1529868686 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\include\clspresentacion.h
+	<clsSprite.h>
+
+1531439008 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\include\clsdespedida.h
+	<clsSprite.h>
+
+1531968912 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\include\clsmenu.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1531876480 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\include\clsboton.h
+	<clsSprite.h>
+	<clsEvent.h>
+
+1563793133 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\include\clstablero.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsJugador.h>
+
+1531969394 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\include\clscasilla.h
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1563069574 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\include\clsfichas.h
+	<clsSprite.h>
+	<clsError.h>
+	<clsEvent.h>
+	<clsScreen.h>
+
+1563793132 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\include\clsjugador.h
+	"clsScreen.h"
+	"clsEvent.h"
+	"clsError.h"
+	"clsSprite.h"
+	"clsText.h"
+	"string.h"
+	"clsTimer.h"
+	"clsFichas.h"
+
+1540350974 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\include\clsjuego.h
+	<clsFichas.h>
+	<clsJugador.h>
+	<clsTablero.h>
+	<clsTimer.h>
+	<clsScreen.h>
+
+1563891381 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\include\clsjugar.h
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsEvent.h>
+	<clsMode.h>
+	<clsTimer.h>
+	<clsPresentacion.h>
+	<clsDespedida.h>
+	<clsMenu.h>
+	<clsBoton.h>
+	<clsTablero.h>
+	<clsCasilla.h>
+	<clsFichas.h>
+	<clsAudio.h>
+	<clsMusic.h>
+	<clsSoundEffect.h>
+	<clsJugador.h>
+	<clsJuego.h>
+	<clsFichas.h>
+	<clsText.h>
+	<clsAyuda.h>
+	<clsPuntaje.h>
+
+1541818842 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\include\clsayuda.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1564030727 c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\include\clspuntaje.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsText.h>
+
+1542300812 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\src\clsayuda.cpp
+	"clsAyuda.h"
+
+1542301930 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\src\clsboton.cpp
+	"clsBoton.h"
+
+1563988583 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\src\clscasilla.cpp
+	"clsCasilla.h"
+
+1542302476 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1563069603 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\src\clsfichas.cpp
+	"clsFichas.h"
+	<clsSprite.h>
+	<clsEvent.h>
+	<clsError.h>
+
+1542303044 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\src\clsjuego.cpp
+	"clsJuego.h"
+
+1563988325 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\src\clsjugador.cpp
+	"clsJugador.h"
+	"clsSprite.h"
+	"clsTimer.h"
+	"clsScreen.h"
+
+1564031264 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\src\clsjugar.cpp
+	"clsJugar.h"
+	<iostream>
+	<string>
+	<sstream>
+	"string.h"
+	"stdlib.h"
+	"stdlib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1542305246 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\src\clsmenu.cpp
+	"clsMenu.h"
+
+1564030165 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\src\clsmotor.cpp
+	"clsMotor.h"
+
+1564031574 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1564031415 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1563988325 source:c:\users\maga.pc-376\desktop\laboratorio ii tp2 v4.7 entrega final\src\clstablero.cpp
+	"clsTablero.h"
+	"clsScreen.h"
+	"clsCasilla.h"
+

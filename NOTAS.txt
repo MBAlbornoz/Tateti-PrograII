@@ -1,0 +1,9 @@
+Pueden jugar 2 personas una partida comun, muestra ficha y nombre de cada jugador.
+cuando gana y cuando pierde cada uno, ademas del empate, pero no incluye puntajes.
+Hay que modificar pantallas, ayuda, agregar puntaje y guardar partida.
+ver error que al escribir mal nombre de jugador y borrar se elimina ficha del jugador.
+
+Puntaje: Va a consistir en mostrar por niveles el Nombre del jugador y cantidad de partidas ganadas
+	ordenado de mayor a menor.
+
+Mostrar ultima partida: debera guardar la pantalla final completa del juego. fichas, nombres y partida, ademas del nombre del ganador en la parte de arriba

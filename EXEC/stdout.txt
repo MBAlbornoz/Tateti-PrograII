@@ -1,0 +1,8 @@
+##########################################################
+           Sistema ADN-X (v. 14.11 estable)
+**********************************************************
+
+Modo grafico iniciado correctamente.
+Monitor de video iniciado correctamente.
+Sistema de audio iniciado correctamente.
+Sistema de audio finalizado correctamente.
